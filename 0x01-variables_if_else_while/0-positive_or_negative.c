@@ -1,14 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-<<<<<<< HEAD
-/**
- *  * main - Determine if number is +, - or 0.
- *   *
- *    * Return: Always 0 (Success).
- **/
-=======
->>>>>>> bd83bedc9acb1a3c994b7390543174b072ef7b86
 int main(void)
 {
 		int n;
