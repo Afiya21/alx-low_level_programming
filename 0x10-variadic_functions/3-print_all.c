@@ -83,3 +83,7 @@ void print_all(const char * const format, ...)
 	va_end(list);
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 80aff3c5106a6af4a768f92822c91647bd2c503c
