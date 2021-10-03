@@ -85,5 +85,8 @@ void print_all(const char * const format, ...)
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 
 >>>>>>> 80aff3c5106a6af4a768f92822c91647bd2c503c
+>>>>>>> a70ad72ba402e792c908fde8ee54c94ca9766123
