@@ -1,6 +1,0 @@
-all:
-<<<<<<< HEAD
-	gcc main.c holberton.c -o school
-=======
-	gcc main.c school.c -o school
->>>>>>> 051c2b6045b011f98640da9cae77a6c0050863b6
